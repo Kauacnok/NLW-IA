@@ -28,3 +28,6 @@ dist-ssr
 
 #tmp
 tmp/*
+
+#db
+dev.db
