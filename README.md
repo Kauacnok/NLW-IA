@@ -16,7 +16,6 @@ Front-End:
 - [Axios]
 - [AI]
 - [FFmpeg]
-- [classnames]
 - [Lucide-react]
 
 Back-End:
